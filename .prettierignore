@@ -3,3 +3,4 @@
 /integration/bazel/bazel-*
 *.log
 node_modules
+.angular
